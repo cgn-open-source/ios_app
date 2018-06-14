@@ -1,0 +1,40 @@
+PODS:
+  - Kanna (4.0.0)
+  - Kingfisher (4.6.4)
+  - SwiftPullToRefresh (2.2.1)
+  - SwiftyComments (0.1.0):
+    - SwipeCellKit
+  - SwipeCellKit (2.1.0)
+
+DEPENDENCIES:
+  - Kanna (~> 4.0.0)
+  - Kingfisher (~> 4.0)
+  - SwiftPullToRefresh
+  - SwiftyComments (from `https://github.com/tsucres/SwiftyComments.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kanna
+    - Kingfisher
+    - SwiftPullToRefresh
+    - SwipeCellKit
+
+EXTERNAL SOURCES:
+  SwiftyComments:
+    :git: https://github.com/tsucres/SwiftyComments.git
+
+CHECKOUT OPTIONS:
+  SwiftyComments:
+    :commit: a1fd9a8e8d638bbc962511d7bd815bc1c4a10391
+    :git: https://github.com/tsucres/SwiftyComments.git
+
+SPEC CHECKSUMS:
+  Kanna: d5ae2a26472f7e7a474e7f36a9cd8aa2c8c63ad3
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  SwiftPullToRefresh: 68a56eae4288064c04571329a704fdc76041c0cb
+  SwiftyComments: a0d3f7f22d96aa7d75f176f78e72e47c147ee1dc
+  SwipeCellKit: 80bdb188166484d8a0d813d9fd7748ad33181815
+
+PODFILE CHECKSUM: 53b5f2cde5a3389fc0cc2ed85cce39044318d779
+
+COCOAPODS: 1.5.3
