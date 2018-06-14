@@ -5,12 +5,14 @@ PODS:
   - SwiftyComments (0.1.0):
     - SwipeCellKit
   - SwipeCellKit (2.1.0)
+  - ZKCarousel (0.1.5)
 
 DEPENDENCIES:
   - Kanna (~> 4.0.0)
   - Kingfisher (~> 4.0)
   - SwiftPullToRefresh
   - SwiftyComments (from `https://github.com/tsucres/SwiftyComments.git`)
+  - ZKCarousel
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -18,6 +20,7 @@ SPEC REPOS:
     - Kingfisher
     - SwiftPullToRefresh
     - SwipeCellKit
+    - ZKCarousel
 
 EXTERNAL SOURCES:
   SwiftyComments:
@@ -34,7 +37,8 @@ SPEC CHECKSUMS:
   SwiftPullToRefresh: 68a56eae4288064c04571329a704fdc76041c0cb
   SwiftyComments: a0d3f7f22d96aa7d75f176f78e72e47c147ee1dc
   SwipeCellKit: 80bdb188166484d8a0d813d9fd7748ad33181815
+  ZKCarousel: e05ed07901a4732949fae62b84ef0e4a58cf74cb
 
-PODFILE CHECKSUM: 53b5f2cde5a3389fc0cc2ed85cce39044318d779
+PODFILE CHECKSUM: 8e15ae0df7712b0bca4012e832cd521795e2868f
 
 COCOAPODS: 1.5.3

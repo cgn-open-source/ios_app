@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9AD3677266EF0FE2B0351E02EDF00884"
-               BlueprintName = "SwipeCellKit"
+               BlueprintIdentifier = "4AAF57AAB89B1312E2763B61836BDB8C"
+               BlueprintName = "ZKCarousel"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "SwipeCellKit.framework">
+               BuildableName = "ZKCarousel.framework">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

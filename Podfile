@@ -7,4 +7,5 @@ target 'CGN' do
     pod 'SwiftPullToRefresh'
     pod 'Kanna', '~> 4.0.0'
     pod 'SwiftyComments', :git => 'https://github.com/tsucres/SwiftyComments.git'
+    pod 'ZKCarousel'
 end

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2C1B8AFC4F64436FC2E10CB000FD26E3"
+               BlueprintIdentifier = "45775FCC91EEA2737E761907A38483B4"
                BlueprintName = "SwiftyComments"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "SwiftyComments.framework">
